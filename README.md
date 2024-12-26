@@ -42,7 +42,7 @@ This application predicts diseases based on the user's input, utilizing a deep l
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Prasadlokhande-880/Owner-Avatar-Disease-Prediction.git
+git clone https://github.com/Siddhithetechie-11/Quera-Disease-Prediction-Website
 cd Owner-Avatar-Disease-Prediction
 ```
 
